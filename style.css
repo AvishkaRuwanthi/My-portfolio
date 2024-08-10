@@ -275,6 +275,10 @@ img{
     display: flex;
 }
 
+.education-icon {
+    cursor: default;
+}
+
 .about-pic {
     border-radius: 2rem;
 }
